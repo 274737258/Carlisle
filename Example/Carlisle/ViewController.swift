@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import Carlisle
 
 class ViewController: UIViewController {
 
@@ -17,6 +18,8 @@ class ViewController: UIViewController {
 
     @IBAction func tap_click(_ sender: Any) {
         _ = "login".openURL()
+        Test().t()
+        Test2()
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
