@@ -64,7 +64,7 @@ class Login_vc: Base_Vc {
          *  自定义 导航栏左侧 返回按钮
          */
         self.customLeftBarButtonItem()
-        title = "登录"
+        title = "登录a"
         if Global.isRember() {
             self.password_tf.text = Global.password()
         }

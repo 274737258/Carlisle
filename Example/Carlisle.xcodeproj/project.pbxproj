@@ -231,12 +231,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 6GU5V4X2VU;
+						DevelopmentTeam = DHH39F6P3M;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 6GU5V4X2VU;
+						DevelopmentTeam = DHH39F6P3M;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -247,6 +247,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -331,8 +332,6 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Carlisle_Example/Pods-Carlisle_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
@@ -361,8 +360,6 @@
 				"${BUILT_PRODUCTS_DIR}/WebViewJavascriptBridge/WebViewJavascriptBridge.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alice.framework",
@@ -549,7 +546,7 @@
 			baseConfigurationReference = 82D487EE5EA18F60295E0274 /* Pods-Carlisle_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6GU5V4X2VU;
+				DEVELOPMENT_TEAM = DHH39F6P3M;
 				INFOPLIST_FILE = Carlisle/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -566,7 +563,7 @@
 			baseConfigurationReference = 5C7524D090480E30CAD0F28B /* Pods-Carlisle_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 6GU5V4X2VU;
+				DEVELOPMENT_TEAM = DHH39F6P3M;
 				INFOPLIST_FILE = Carlisle/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -582,7 +579,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 47CF52412A2BA4189D7EBF81 /* Pods-Carlisle_Tests.debug.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 6GU5V4X2VU;
+				DEVELOPMENT_TEAM = DHH39F6P3M;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -606,7 +603,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C1527D6CDB398BBE7578F5FC /* Pods-Carlisle_Tests.release.xcconfig */;
 			buildSettings = {
-				DEVELOPMENT_TEAM = 6GU5V4X2VU;
+				DEVELOPMENT_TEAM = DHH39F6P3M;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
