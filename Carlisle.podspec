@@ -19,7 +19,7 @@ TODO:登录注册.
   s.homepage         = 'https://github.com/seongbrave/Carlisle'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'seongbrave' => 'seongbrave@sina.com' }
-  s.source           = { :git => 'https://github.com/seongbrave/Carlisle.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/274737258/Carlisle.git', :tag => s.version.to_s }
   s.social_media_url = 'http://seongbrave.github.io'
 
   s.ios.deployment_target = '8.0'
